@@ -9,6 +9,8 @@ ml 폴더로 이동
 ```
 cd ml
 ```
+![pote](https://user-images.githubusercontent.com/101806904/177272762-935b0127-c3dd-4683-b553-4f40a4af5f02.jpg)
+
 
 [Decision_Tree.ipynb](https://github.com/mzaeee/ml/blob/main/Decision_Tree.ipynb) : 의사결정 나무
 
